@@ -1,0 +1,20 @@
+From 5ae952a938c1774607f6bfba9d769f70e587861f Mon Sep 17 00:00:00 2001
+From: Josiah Chapman <35126739+josiahdc@users.noreply.github.com>
+Date: Tue, 2 Aug 2022 14:15:54 -0700
+Subject: [PATCH 2/7] Update README.md
+
+---
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index 5c2343f..14926f5 100644
+--- a/README.md
++++ b/README.md
+@@ -1,2 +1,2 @@
+-# jpmc-task-1
++# JPMC Task 1
+ Starter repo for task 1 of the JPMC software engineering program
+-- 
+2.46.0.windows.1
+
